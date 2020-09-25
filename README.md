@@ -2,10 +2,8 @@
 ## North Wind - Hypothesis Testing 
 
 <p align="center">
-  <img width="850" height="250" src="/Movie2.jpg">
+  <img width="300" height="300" src="outback.jpg">
 </p>
- 
- [](/Movie.jpg) 
  
 ### Project Overview 
 This is a 24 case study on Hypothesis Testing given mid Statistics Module (Module 2) at the Flatiron School. 
