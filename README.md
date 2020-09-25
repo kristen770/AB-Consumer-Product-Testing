@@ -1,7 +1,16 @@
 # Case-Study-2-North-Wind-Distribution-Data 
 ## North Wind - Hypothesis Testing 
 
-### Senario 
+<p align="center">
+  <img width="850" height="250" src="/Movie2.jpg">
+</p>
+ 
+ [](/Movie.jpg) 
+ 
+### Project Overview 
+This is a 24 case study on Hypothesis Testing given mid Statistics Module (Module 2) at the Flatiron School. 
+
+### Business Senario 
 You are a DS working for Northwind, a supplier company. Your job is find interesting relationships in their database. 
 
 ### Question 1: there a difference in quantity of products sold by discount rate?  
